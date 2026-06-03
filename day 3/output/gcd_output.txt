@@ -1,3 +1,0 @@
-Enter two integers: 15
-30
-The GCD of 15 and 30 is: 15

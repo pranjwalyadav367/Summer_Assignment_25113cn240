@@ -1,4 +1,0 @@
-Enter lower limit: 5
-Enter upper limit: 21
-Prime numbers between 5 and 21 are:
-5 7 11 13 17 19 
