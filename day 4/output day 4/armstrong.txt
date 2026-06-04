@@ -1,0 +1,2 @@
+Enter an integer: 55
+55 is not an Armstrong number.

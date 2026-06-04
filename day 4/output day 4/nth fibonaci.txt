@@ -1,0 +1,3 @@
+Enter the position (n): 8
+The 8th Fibonacci term is: 13
+
