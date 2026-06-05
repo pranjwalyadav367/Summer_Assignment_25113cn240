@@ -1,0 +1,2 @@
+Enter a number: 55
+Largest prime factor: 11

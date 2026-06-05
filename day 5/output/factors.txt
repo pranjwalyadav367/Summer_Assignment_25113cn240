@@ -1,0 +1,2 @@
+Enter a positive integer: 8
+Factors of 8 are: 1 2 4 8
