@@ -1,0 +1,2 @@
+Enter a binary number: 1111
+Decimal equivalent: 15
