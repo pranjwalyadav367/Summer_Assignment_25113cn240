@@ -1,0 +1,2 @@
+Enter a positive integer: 5
+Sum of first 5 natural numbers = 15

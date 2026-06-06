@@ -1,0 +1,2 @@
+Enter an integer: 454
+Number of digits: 3
