@@ -1,0 +1,2 @@
+Enter a positive integer: 3
+Factorial of 3 = 6

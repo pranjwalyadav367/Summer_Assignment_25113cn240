@@ -1,0 +1,2 @@
+Enter a number: 145
+Sum of digits: 10

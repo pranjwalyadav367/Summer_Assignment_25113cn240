@@ -1,0 +1,2 @@
+Enter a number: 467
+Reversed number: 764
