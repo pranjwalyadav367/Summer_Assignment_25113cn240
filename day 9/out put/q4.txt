@@ -1,5 +1,0 @@
-Enter side of square: 4
-****
-*  *
-*  *
-****
