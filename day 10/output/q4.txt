@@ -1,0 +1,5 @@
+Enter the row :4
+   A
+  ABA
+ ABCBA
+ABCDCBA
