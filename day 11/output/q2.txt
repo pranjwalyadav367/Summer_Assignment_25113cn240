@@ -1,0 +1,3 @@
+enter the first num5
+enter the second num6
+Maximum is: 6
