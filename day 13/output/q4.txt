@@ -1,0 +1,7 @@
+Enter size of the array: 4
+Enter 4 elements: 2
+34
+5
+6
+Total even elements: 3
+Total odd elements: 1

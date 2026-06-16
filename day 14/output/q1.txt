@@ -1,0 +1,10 @@
+Enter number of elements: 6
+Enter 6 integers:
+3
+4
+5
+6
+7
+88
+Enter element to search: 9
+Element not found

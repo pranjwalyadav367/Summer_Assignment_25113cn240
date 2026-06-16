@@ -1,0 +1,6 @@
+Enter size of array: 4
+Enter 4 elements: 1
+2
+3
+4
+Array elements: 1 2 3 4 

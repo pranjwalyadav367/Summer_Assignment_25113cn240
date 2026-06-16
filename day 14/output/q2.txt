@@ -1,0 +1,10 @@
+Enter number of elements: 6  
+Enter 6 elements:
+2    
+2
+3
+3
+3
+4
+Enter the element to find its frequency: 3
+Frequency of 3 = 3
