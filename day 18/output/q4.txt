@@ -1,0 +1,9 @@
+Enter number of elements: 5
+Enter 5 elements:
+4 
+6
+8
+9
+3
+Array in descending order:
+9 8 6 4 3 
