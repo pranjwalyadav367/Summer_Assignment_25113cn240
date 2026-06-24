@@ -1,0 +1,13 @@
+Enter rows and columns: 2 
+3
+Enter matrix elements:
+2
+3
+4
+
+5
+6
+7
+Sum of column 1 = 7
+Sum of column 2 = 9
+Sum of column 3 = 11

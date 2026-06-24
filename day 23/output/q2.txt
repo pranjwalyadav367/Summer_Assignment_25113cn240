@@ -1,0 +1,3 @@
+Enter a string: oppo is a good compny
+First repeating character: p
+

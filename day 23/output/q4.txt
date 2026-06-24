@@ -1,0 +1,3 @@
+Enter a string: is this the time which is required 
+Maximum occurring character: ' ' (repeats 7 times)
+

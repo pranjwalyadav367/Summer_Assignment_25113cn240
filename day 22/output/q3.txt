@@ -1,0 +1,3 @@
+Enter a string: a man is a person who brings money
+Enter a character to find its frequency: a
+Frequency of a = 3

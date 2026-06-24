@@ -1,0 +1,2 @@
+Enter a sentence: how are you
+Total number of words: 3

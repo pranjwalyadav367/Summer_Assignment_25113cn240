@@ -1,0 +1,12 @@
+Enter rows and columns: 2
+3
+Enter matrix elements:
+2
+3
+4
+5
+6
+7 
+Sum of row 1 = 9
+Sum of row 2 = 18
+

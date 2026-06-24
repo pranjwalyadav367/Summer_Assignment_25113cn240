@@ -1,0 +1,3 @@
+Enter first string: take care of yourself
+Enter second string: i am taking care of myself
+Not anagram

@@ -1,0 +1,2 @@
+Enter a string: holidayareover
+Length of the string: 14

@@ -1,0 +1,21 @@
+Enter rows and columns for first matrix: 2
+3
+Enter rows and columns for second matrix: 3
+2
+Enter elements of first matrix:
+1
+2
+3
+4 
+4
+4
+Enter elements of second matrix:
+3
+6
+7
+8
+9
+8
+Resultant Matrix:
+44 46 
+76 88 

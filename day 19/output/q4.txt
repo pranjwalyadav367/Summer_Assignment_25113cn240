@@ -1,0 +1,6 @@
+Enter matrix size: 2
+Enter matrix elements:
+4
+4
+5
+6

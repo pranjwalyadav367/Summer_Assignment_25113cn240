@@ -1,0 +1,4 @@
+Enter rows and columns: 2
+3
+The matrix is not symmetric.
+

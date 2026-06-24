@@ -1,0 +1,2 @@
+Enter a string in lowercase: back to noida
+Uppercase string: BACK TO NOIDA

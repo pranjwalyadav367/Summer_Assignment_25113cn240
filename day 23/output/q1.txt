@@ -1,0 +1,2 @@
+Enter a string: weather is pleasant
+First non-repeating character is: w
