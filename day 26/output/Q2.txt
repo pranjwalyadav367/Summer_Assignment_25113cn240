@@ -1,0 +1,2 @@
+Enter your age: 20
+You are eligible to vote.

@@ -1,0 +1,59 @@
+
+Enter your 4-digit PIN: 4733
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Your current balance is: $5000.00
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Your current balance is: $5000.00
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 33
+Invalid option. Please try again.
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 3
+Enter withdrawal amount: 30000
+Insufficient balance.
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 2
+Enter deposit amount: 200000
+$200000.00 deposited successfully.
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 2
+Enter deposit amount: 100000
+$100000.00 deposited successfully.
+
+*** ATM MENU ***
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit

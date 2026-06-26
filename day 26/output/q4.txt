@@ -1,0 +1,11 @@
+3. Which keyword is used to prevent modification of a variable?
+A) static
+B) volatile
+C) const
+D) final
+Your answer (A/B/C/D): c
+Correct!
+
+=== QUIZ OVER ===
+Your final score: 2/3
+
