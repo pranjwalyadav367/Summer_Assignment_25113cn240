@@ -1,0 +1,33 @@
+
+=== Student Record System ===
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Exit
+Enter choice: 1
+
+Enter Roll Number: 2
+Enter Name: namam yadav
+Enter GPA: 9
+
+Student added successfully!
+
+=== Student Record System ===
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Exit
+Enter choice: 3
+
+Enter Roll Number to search: 2
+
+Record Found:
+Roll No: 2
+Name: namam yadav
+GPA: 9.00
+
+=== Student Record System ===
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Exit

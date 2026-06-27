@@ -1,0 +1,29 @@
+
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add Employee
+2. Display All Employees
+3. Search Employee
+4. Update Employee
+5. Exit
+Enter choice: 1    
+
+Enter ID: 421
+Enter Name: Pranjwal Yadav
+Enter Department: IT
+Enter Salary: 20000000000000
+Employee added successfully.
+
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add Employee
+2. Display All Employees
+3. Search Employee
+4. Update Employee
+5. Exit
+Enter choice: 3
+
+Enter Employee ID to search: 421
+
+ID: 421
+Name: Pranjwal Yadav
+Department: IT
+Salary: 19999999655936.00

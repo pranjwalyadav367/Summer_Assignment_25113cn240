@@ -1,0 +1,30 @@
+
+--- SALARY MANAGEMENT SYSTEM ---
+1. Add Employee Record
+2. Display All Salary Slips
+3. Search Employee by ID
+4. Exit
+Enter your choice: 1
+
+Enter Employee ID: 422
+Enter Employee Name: Yuka Nagar
+Enter Basic Salary: 250000000
+
+Record added successfully!
+
+--- SALARY MANAGEMENT SYSTEM ---
+1. Add Employee Record
+2. Display All Salary Slips
+3. Search Employee by ID
+4. Exit
+Enter your choice: 3
+
+Enter Employee ID to search: 422
+
+Record Found:
+-----------------------------------
+ID: 422
+Name: Yuka Nagar
+Basic Salary:  $250000000.00
+Gross Salary:  $337500000.00
+Net Salary:    $312500000.00

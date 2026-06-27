@@ -1,0 +1,19 @@
+Enter Student Name: PranjwalYadav
+Enter Roll Number: 51
+Enter Maths Marks: 99
+Enter Science Marks: 90
+Enter English Marks: 95
+
+==================================
+            MARKSHEET             
+==================================
+Name: PranjwalYadav
+Roll Number: 51
+----------------------------------
+Maths:   99.00
+Science: 90.00
+English: 95.00
+----------------------------------
+Total Marks: 284.00 / 300.00
+Percentage:  94.67%
+Final Grade: A
