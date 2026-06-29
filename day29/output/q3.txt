@@ -1,0 +1,18 @@
+
+
+--- String Operations Menu ---
+1. Concatenate Strings
+2. Compare Strings
+3. Calculate String Length
+4. Reverse String
+5. Exit
+Enter your choice (1-5): 3
+Enter string: 1
+Length of the string: 1
+
+--- String Operations Menu ---
+1. Concatenate Strings
+2. Compare Strings
+3. Calculate String Length
+4. Reverse String
+5. Exit

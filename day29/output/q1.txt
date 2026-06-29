@@ -1,0 +1,29 @@
+
+--- Calculator ---
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 3                           
+Enter two numbers: 2
+4
+Result: 8.00
+
+--- Calculator ---
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 2
+Enter two numbers: 4
+6
+Result: -2.00
+
+--- Calculator ---
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit

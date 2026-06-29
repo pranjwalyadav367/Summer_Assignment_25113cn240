@@ -1,0 +1,43 @@
+
+=== BANKING SYSTEM ===
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 1
+
+Enter Account Number: 4733333
+Enter Name: yukta nagar
+Account created successfully!
+
+=== BANKING SYSTEM ===
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 2
+
+Enter Account Number: 4733333
+Enter Deposit Amount: 50000000000
+Successfully deposited $50000000000.00. New Balance: $50000000000.00
+
+=== BANKING SYSTEM ===
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Enter your choice: 3
+
+Enter Account Number: 4733333
+Enter Withdrawal Amount: 2222222
+Successfully withdrew $2222222.00. New Balance: $49997777778.00
+
+=== BANKING SYSTEM ===
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit

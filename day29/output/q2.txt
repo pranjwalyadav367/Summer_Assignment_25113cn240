@@ -1,0 +1,27 @@
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Search
+4. Display
+5. Exit
+Enter your choice: 1
+Enter element to insert: 34
+Enter position (0 to 0): 5
+Invalid position.
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Search
+4. Display
+5. Exit
+Enter your choice: 3
+Enter element to search: 34
+Element not found.
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Search
+4. Display

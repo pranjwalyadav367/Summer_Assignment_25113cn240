@@ -1,0 +1,15 @@
+1. Add Contact
+2. Display All Contacts
+3. Search Contact
+4. Exit
+Enter your choice: 1
+Enter Name: ANKU MAURYA
+Enter Phone: 4747474748843
+Enter Email: ANKURMAURYA@GMAIL.COM
+Contact added successfully!
+
+*** Contact Management System ***
+1. Add Contact
+2. Display All Contacts
+3. Search Contact
+4. Exit
