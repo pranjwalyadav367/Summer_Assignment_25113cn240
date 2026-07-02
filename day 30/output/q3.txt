@@ -1,0 +1,30 @@
+--- Employee Management System ---
+1. Add Employee
+2. Display All Employees
+3. Search Employee
+4. Delete Employee
+5. Exit
+Enter choice: 1
+Enter ID: 111
+Enter Name: yukta nagar
+Enter Salary: 200000
+Employee added successfully.
+
+--- Employee Management System ---
+1. Add Employee
+2. Display All Employees
+3. Search Employee
+4. Delete Employee
+5. Exit
+Enter choice: 2
+
+ID      Name            Salary
+----------------------------------
+111     yukta nagar     200000.00
+
+--- Employee Management System ---
+1. Add Employee
+2. Display All Employees
+3. Search Employee
+4. Delete Employee
+5. Exit

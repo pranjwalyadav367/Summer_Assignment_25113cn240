@@ -1,0 +1,16 @@
+
+1. Add Student
+2. Display All
+3. Exit
+Enter choice: 1
+Enter Roll Number: 32
+Enter Name: naman yadV
+Enter Marks: 
+1. Add Student
+2. Display All
+3. Exit
+Enter choice: Enter Roll Number: Enter Name: Enter Marks: 2
+
+1. Add Student
+2. Display All
+3. Exit
